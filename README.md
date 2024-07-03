@@ -1,6 +1,7 @@
 ## Project objective: 
 To analyze hotel booking data and create an interactive Tableau dashboard that provides key performance metrics and actionable insights, enabling strategic decision-making to optimize revenue, manage resources, and enhance customer satisfaction.
 
+### Dashboard
 ![Alt text](https://github.com/najmisyazani/Hotel-Revenue-Analysis/blob/main/Hotel%20Revenue%20Dashboard.png)
 
 ### Technical summary:

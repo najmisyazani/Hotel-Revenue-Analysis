@@ -1,10 +1,10 @@
-## Project objective: 
+## Project Objective: 
 To analyze hotel booking data and create an interactive Tableau dashboard that provides key performance metrics and actionable insights, enabling strategic decision-making to optimize revenue, manage resources, and enhance customer satisfaction.
 
-### Dashboard
+## Dashboard
 ![Alt text](https://github.com/najmisyazani/Hotel-Revenue-Analysis/blob/main/Hotel%20Revenue%20Dashboard.png)
 
-### Technical summary:
+## Technical Summary:
 -	Created a comprehensive SQL database containing `100,732 data points` on hotel booking history to identify patterns and derive actionable insights for business strategies.
 -	Imported the dataset into Tableau to develop an interactive dashboard showcasing key performance metrics, including total revenue, average daily rate (ADR), total nights booked, and car parking space usage.
 -	Identified a significant increase in total revenue from $1.23M in 2018 to $5.49M in 2019, marking a `347% growth`. However, there was a subsequent `decline of 20%` to $4.90M in 2020.
